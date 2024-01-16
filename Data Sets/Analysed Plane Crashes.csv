@@ -1,0 +1,456 @@
+Country,Operator,Type,Aboard,Fatalities,Ground,Survivors,SurvivalRate,Manufacturer,Year,Clust_ID
+Nigeria,ADC Airlines,Boeing 737-2B7,105,96,0,9,0.085714286,Boeing,2006,1
+Spain,AVIANCA,Boeing B-747-283B,192,181,0,11,0.057291667,Boeing,1983,1
+United States Of America,AVIANCA,Boeing B-707-321B,158,73,0,85,0.537974684,Boeing,1990,1
+Colombia,AVIANCA,Boeing B-727-21,107,107,3,0,0.0,Boeing,1989,1
+Colombia,AVIANCA,Boeing B-727-21,143,143,0,0,0.0,Boeing,1988,1
+Indonesia,Adam Air,Boeing B-737-4Q8,102,102,0,0,0.0,Boeing,2007,1
+Russia,Aeroflot,Ilyushin IL-18,112,16,0,96,0.857142857,Ilyushin,1969,0
+Russia,Aeroflot,Tupolev TU-154B,134,4,0,130,0.970149254,Tupolev,1978,0
+Kazakhstan,Aeroflot,Tupolev TU-134A,90,90,0,0,0.0,Tupolev,1983,1
+Uzbekistan,Aeroflot,Ilyushin IL-18V,92,92,0,0,0.0,Ilyushin,1970,1
+Russia,Aeroflot,Tupolev TU-134A,92,70,0,22,0.239130435,Tupolev,1986,1
+Russia,Aeroflot,Ilyushin IL-18D,82,82,0,0,0.0,Ilyushin,1968,1
+Russia,Aeroflot,Tupolev TU-134A,94,54,0,40,0.425531915,Tupolev,1986,1
+Russia,Aeroflot,Ilyushin IL-62,174,174,0,0,0.0,Ilyushin,1972,1
+Russia,Aeroflot,Ilyushin IL-18B,87,87,0,0,0.0,Ilyushin,1964,1
+Russia,Aeroflot,Ilyushin IL-18B,109,109,0,0,0.0,Ilyushin,1972,1
+Germany,Aeroflot,Tupolev TU-134A,82,70,0,12,0.146341463,Tupolev,1986,1
+Russia,Aeroflot,Ilyushin IL-18,101,101,0,0,0.0,Ilyushin,1972,1
+Russia,Aeroflot,Tupolev TU-104B,106,86,0,20,0.188679245,Tupolev,1979,1
+Uzbekistan,Aeroflot,Tupolev TU-154B-2,200,200,0,0,0.0,Tupolev,1985,1
+Ukraine,Aeroflot,Antonov AN-10A,122,122,0,0,0.0,Antonov,1972,1
+Kazakhstan,Aeroflot,Tupolev TU-154B,166,166,0,0,0.0,Tupolev,1980,1
+Russia,Aeroflot,Tupolev TU-154B-2,167,99,0,68,0.407185629,Tupolev,1981,1
+Russia,Aeroflot,Tupolev TU-104,100,100,0,0,0.0,Tupolev,1971,1
+Russia,Aeroflot,Tupolev TU-104B,126,97,0,29,0.23015873,Tupolev,1971,1
+Belarus,Aeroflot,Yakovlev YAK-42,132,132,0,0,0.0,Yakovlev,1982,1
+Belarus,Aeroflot,Tupolev TU-134A,80,58,0,22,0.275,Tupolev,1985,1
+Russia,Aeroflot,Tupolev TU-154B-2,110,110,0,0,0.0,Tupolev,1984,1
+Russia,Aeroflot,Ilyushin IL-18B,130,130,0,0,0.0,Ilyushin,1967,1
+Russia,Aeroflot,Tupolev TU-104A,86,86,0,0,0.0,Tupolev,1962,1
+Russia,Aeroflot,Antonov An-10A,81,81,0,0,0.0,Antonov,1962,1
+Czech Republic,Aeroflot,Tupolev TU-154,100,66,0,34,0.34,Tupolev,1973,1
+Russia,Aeroflot,Tupolev TU-154B,179,174,4,5,0.027932961,Tupolev,1984,1
+Russia,Aeroflot,Tupolev TU-104A,80,80,0,0,0.0,Tupolev,1958,1
+Russia,Aeroflot,Boeing B-737-505,88,88,0,0,0.0,Boeing,2008,1
+Russia,Aeroflot,Yakovlev YAK-42,129,4,0,125,0.968992248,Yakovlev,1990,0
+Russia,Aeroflot,Tupolev TU-154B-1,181,13,0,168,0.928176796,Tupolev,1991,0
+Uzbekistan,Aeroflot,Ilyushin IL-18E,115,1,0,114,0.991304348,Ilyushin,1974,0
+Russia,Aeroflot,Ilyushin IL-62M,90,90,0,0,0.0,Ilyushin,1982,1
+Russia,Aeroflot,Ilyushin IL-18B,93,93,0,0,0.0,Ilyushin,1970,1
+Russia,Aeroflot,Tupolev TU-134A,84,84,0,0,0.0,Tupolev,1992,1
+Russia,Aeroflot,Ilyushin IL-18B,118,118,0,0,0.0,Ilyushin,1974,1
+Russia,Aeroflot,Tupolev TU-104B,72,72,0,0,0.0,Tupolev,1976,1
+Russia,Aeroflot,Ilyushin IL-18V,77,77,0,0,0.0,Ilyushin,1977,1
+Russia,Aeroflot,Tupolev TU 154B-2,143,11,0,132,0.923076923,Tupolev,1988,0
+Russia,Aeroflot,Tupolev TU-104B,108,108,0,0,0.0,Tupolev,1973,1
+Russia,Aeroflot,Tupolev TU-104B,119,119,0,0,0.0,Tupolev,1973,1
+Cuba,Aeroflot,Ilyushin IL-62M,70,68,1,2,0.028571429,Ilyushin,1977,1
+Russia,Aeroflot,Tupolev TU-104A,100,100,0,0,0.0,Tupolev,1973,1
+Russia,Aeroflot,Ilyushin IL-18,79,79,0,0,0.0,Ilyushin,1973,1
+Russia,Aeroflot,Antonov AN-10A,81,81,0,0,0.0,Antonov,1962,1
+Russia,Aeroflot,Tupolev TU-104A,84,84,0,0,0.0,Tupolev,1962,1
+Russia,Aeroflot,Tupolev TU-104A,96,96,0,0,0.0,Tupolev,1977,1
+Russia,Aeroflot,Ilyushin IL-18D,120,120,7,0,0.0,Ilyushin,1976,1
+Russia,Aeroflot / Aeroflot,Antonov AN-24 / Yakovlev Yak-40,90,90,0,0,0.0,Antonov,1976,1
+Russia,Aeroflot / Aeroflot,Tupolev TU-134A / Tupolev Tu-134A,178,178,0,0,0.0,Tupolev,1979,1
+Russia,Aeroflot / Soviet Air Force,Tupolev TU-134A / Antonov An-26,76,76,0,0,0.0,Tupolev,1985,1
+Russia,Aeroflot Russian International Airways,Airbus A310-304,75,75,0,0,0.0,Airbus,1994,1
+United States Of America,Aeronaves de Mexico,McDonnell Douglas DC-8-21,106,4,0,102,0.962264151,McDonnell,1961,0
+Peru,Aeroperu,Boeing B-757-200,70,70,0,0,0.0,Boeing,1996,1
+Greece,Aerosweet Airlines (LVOV),Yakovlev YAK-42,70,70,0,0,0.0,Yakovlev,1997,1
+Venezuela,Aerovias Venezolanas SA (Venezuela),McDonnell Douglas DC-9-14,77,77,0,0,0.0,McDonnell,1974,1
+Guatemala,Aerovias de Guatemala SA,Sud-Aviation  Caravelle VI-N,87,87,0,0,0.0,Sud,1986,1
+Switzerland,Air Afrique,McDonnell Douglas DC-10-30,163,1,0,162,0.993865031,McDonnell,1987,0
+Algeria,Air Algerie,Boeing B-737-2T4,103,102,0,1,0.009708738,Boeing,2003,1
+Canada,Air Canada,McDonnell Douglas DC-8-63,109,109,0,0,0.0,McDonnell,1970,1
+Canada,Air Canada,McDonnell Douglas DC-9-32,107,2,0,105,0.981308411,McDonnell,1978,0
+South Korea,Air China,Boeing B-767-200ER,166,128,0,38,0.228915663,Boeing,2002,1
+France,Air Ferry Ltd,Douglas C54A,88,88,0,0,0.0,Douglas,1967,1
+United States Of America,Air Florida,Boeing B-737-222,79,74,4,5,0.063291139,Boeing,1982,1
+France,Air France,Aerospatiale BAe Concorde 101,109,109,4,0,0.0,Aerospatiale,2000,1
+Uganda,Air France,Airbus A300,258,7,0,251,0.972868217,Airbus,1976,0
+France,Air France,Sud-Aviation Caravelle 3,95,95,0,0,0.0,Sud,1968,1
+Brazil,Air France,Airbus A330-203,228,228,0,0,0.0,Airbus,2009,1
+West Indies,Air France,Boeing B-707-328,112,112,0,0,0.0,Boeing,1962,1
+Morrocco,Air France,Sud-Aviation Caravelle III,77,77,0,0,0.0,Sud,1961,1
+Canada,Air France,Airbus A-340,309,0,0,309,1.0,Airbus,2005,0
+France,Air France,Airbus A320-111,136,3,0,133,0.977941176,Airbus,1988,0
+France,Air France,Boeing B-707-328,132,130,0,2,0.015151515,Boeing,1962,1
+Algeria,Air France,Lockheed 1649A Starliner,78,78,0,0,0.0,Lockheed,1961,1
+Algeria,Air France,Airbus A300B2-1C,239,3,0,236,0.987447699,Airbus,1994,0
+India,Air India,Boeing B-707-437,111,17,0,94,0.846846847,Boeing,1982,0
+India,Air India,Boeing B-747-237B,213,213,0,0,0.0,Boeing,1978,1
+Switzerland,Air India,Boeing B-707-437,117,117,0,0,0.0,Boeing,1966,1
+Ireland,Air India,Boeing B-747-237B,329,329,0,0,0.0,Boeing,1985,1
+France,Air Inter,Airbus A320-111,96,87,0,9,0.09375,Airbus,1992,1
+Sri Lanka,Air Lanka,Lockheed L-1011-100,150,22,0,128,0.853333333,Lockheed,1986,0
+Mauritania,Air Mauritanie,Fokker F-28 Fellowship 4000,93,80,0,13,0.139784946,Fokker,1994,1
+Antarctica,Air New Zealand,McDonnell Douglas DC-10-30,257,257,0,0,0.0,McDonnell,1979,1
+Philippines,Air Philippines,Boeing B-737-2H4,131,131,0,0,0.0,Boeing,2000,1
+Vietnam,Air Vietnam (South Vietnam),Douglas DC-4 / USAF F-4E,76,74,2,2,0.026315789,Douglas,1969,1
+Vietnam,Air Vietnam (South Vietnam),Boeing B-727-121C,75,75,0,0,0.0,Boeing,1974,1
+Dominican Republic,"Alas Nacionales, leased from Birgen Air",Boeing B-757-225,189,189,0,0,0.0,Boeing,1996,1
+United States Of America,Alaska Airlines,Boeing B-727-193,111,111,0,0,0.0,Boeing,1971,1
+United States Of America,Alaska Airlines,McDonnell Douglas MD-83,88,88,0,0,0.0,McDonnell,2000,1
+Nigeria,Alia Royal Jordanian Airlines,Boeing B-707-3D3C,202,176,0,26,0.128712871,Boeing,1973,1
+Morocco,Alia Royal Jordanian Airlines,Boeing B-707-321C,188,188,0,0,0.0,Boeing,1975,1
+Italy,Alitalia,McDonnell Douglas DC-8-43,115,115,0,0,0.0,McDonnell,1972,1
+India,Alitalia,McDonnell Douglas DC-8-43,94,94,0,0,0.0,McDonnell,1962,1
+Italy,Alitalia,McDonnell Douglas DC-9-32,129,108,0,21,0.162790698,McDonnell,1978,1
+Japan,All Nippon Airways,Boeing B-727-81,133,133,0,0,0.0,Boeing,1966,1
+Japan,All Nippon Airways,Boeing B-747,517,1,0,516,0.998065764,Boeing,1999,0
+Japan,All Nippon Airways /  Japanese Air Force,Boeing B-727-281 / Air Force F86F,164,163,0,1,0.006097561,Boeing,1971,1
+United States Of America,Allegheny Airlines / Forth Corporation,MD Douglas DC-9-31/Piper Cherokee PA-28,83,83,0,0,0.0,MD,1969,1
+United States Of America,Aloha Airlines,Boeing B-737-297,95,1,0,94,0.989473684,Boeing,1988,0
+United States Of America,American Airlines,Lockheed  188A Electra,73,65,0,8,0.109589041,Lockheed,1959,1
+United States Of America,American Airlines,McDonnell Douglas DC-10-10,271,271,2,0,0.0,McDonnell,1979,1
+United States Of America,American Airlines,Airbus A300-600R,114,1,0,113,0.99122807,Airbus,2000,0
+United States Of America,American Airlines,Boeing B-707-123B,95,95,0,0,0.0,Boeing,1962,1
+United States Of America,American Airlines,Boeing 767-223ER,92,92,2750,0,0.0,Boeing,2001,1
+United States Of America,American Airlines,Airbus A-300-605R,260,260,5,0,0.0,Airbus,2001,1
+Colombia,American Airlines,Boeing B-757-223,164,160,0,4,0.024390244,Boeing,1995,1
+United States Of America,American Airlines,McDonnell Douglas MD-82,145,11,0,134,0.924137931,McDonnell,1999,0
+United States Of America,American Flyers Airline,Lockheed 188C Electra,98,83,0,15,0.153061224,Lockheed,1966,1
+Russia,Armavia,Airbus A320-211,113,113,0,0,0.0,Airbus,2006,1
+Canada,Arrow Airways,McDonnell Douglas DC-8 Super 63PF,256,256,0,0,0.0,McDonnell,1985,1
+South Korea,Asiana Airlines,Boeing B-737-5L9,110,68,0,42,0.381818182,Boeing,1993,1
+Uruguay,Austral Lineas Aeras (Argentina),McDonnell Douglas DC-9-32,74,74,0,0,0.0,McDonnell,1997,1
+Spain,Aviaco,Sud-Aviation Caravelle 10-R,85,85,5,0,0.0,Sud,1973,1
+Macedonia,Aviaimpex (Macedonia),Yakovlev YAK-42D,116,116,0,0,0.0,Yakovlev,1993,1
+Nigeria,Aviation Development Corporation,Boeing B-727-231,143,143,0,0,0.0,Boeing,1996,1
+Yugoslavia,Aviogenex (Yugoslavia),Tupolev TU-134A,83,78,0,5,0.060240964,Tupolev,1971,1
+Russia,Azerbaijani Airlines,Tupolev TU-134B-3,82,54,0,28,0.341463415,Tupolev,1995,1
+Russia,Baikal Air,Tupolev TU-154M,124,124,1,0,0.0,Tupolev,1994,1
+Bulgaria,Balkan Bulgarian Airlines,Tupolev TU-134,73,73,0,0,0.0,Tupolev,1978,1
+Lebanon,Balkan Bulgarian Airlines,Tupolev TU-154B,165,59,0,106,0.642424242,Tupolev,1977,0
+Germany,Bashkirian Airlines / DHL Worldwide Express,Tupolev TU-154M / Boeing B-757-23APF,71,71,0,0,0.0,Tupolev,2002,1
+Nigeria,Bellview Airlines,Boeing B-737-2L9,117,117,0,0,0.0,Boeing,2005,1
+United States Of America,Braniff Airlines,Lockheed L188A Electra,85,85,0,0,0.0,Lockheed,1968,1
+Yugoslavia,Britannia Airways,Bristol Britannia 102,117,98,0,19,0.162393162,Bristol,1966,1
+England,British Airtours,Boeing B-737-236,137,55,0,82,0.598540146,Boeing,1985,1
+Indonesia,British Airways,Boeing B-747,257,0,0,257,1.0,Boeing,1982,0
+England,British Airways,Boeing 777-236ER,152,0,0,152,1.0,Boeing,2008,0
+Austria,British Eagle International Airlines,Bristol Britannia 312,83,83,0,0,0.0,Bristol,1964,1
+England,British European Airways,Hawker Siddeley Trident 1C,118,118,0,0,0.0,Hawker,1972,1
+England,British Midland Airways,Canadair C-4 Argonaut,84,72,0,12,0.142857143,Canadair,1967,1
+England,British Midland Airways,Boeing B-737-4Y0,126,47,0,79,0.626984127,Boeing,1989,1
+Japan,British Overseas Airways,Boeing B-707-436,124,124,0,0,0.0,Boeing,1966,1
+England,British Overseas Airways,Boeing B-707-465,127,5,0,122,0.960629921,Boeing,1968,0
+Bulgaria,Bulair TABSO,Ilyushin IL-18,89,47,0,42,0.471910112,Ilyushin,1968,1
+China,CAAC,Hawker Siddeley Trident 2E,112,112,0,0,0.0,Hawker,1982,1
+China,CAAC,Hawker Siddeley Trident 2E /  II-28,106,11,0,95,0.896226415,Hawker,1983,0
+Cameroon,Caledonian Airways,Douglas DC-7C,111,111,0,0,0.0,Douglas,1962,1
+Cameroon,Cameroon Airlines,Boeing B-737-2K9,78,72,0,6,0.076923077,Boeing,1995,1
+Cameroon,Cameroon Airlines,Boeing B-737-2H7C,116,2,0,114,0.982758621,Boeing,1984,0
+Portugal,Canadian Air Transat,Airbus A-330-243,304,0,0,304,1.0,Airbus,2001,0
+United States Of America,Capital Airlines,McDonnell Douglas DC-8-63CF,229,47,0,182,0.794759825,McDonnell,1970,0
+Vietnam,Cathay PacifiAirways,Convair CV-880-22M-21,81,81,0,0,0.0,Convair,1972,1
+China,Cathay PacifiAirways,Convair CV-880-22M-3,127,1,0,126,0.992125984,Convair,1967,0
+Philippines,Cebu PacifiAir,McDonnell Douglas DC-9-32,104,104,0,0,0.0,McDonnell,1998,1
+Czechoslovakia,Ceskoslovenske Aerolinie,Ilyushin IL-18L,79,76,0,3,0.037974684,Ilyushin,1976,1
+Syria,Ceskoslovenske Aerolinie,Ilyushin IL-62,128,126,0,2,0.015625,Ilyushin,1975,1
+Morocco,Ceskoslovenske Aerolinie,Ilyushin IL-18B,72,72,0,0,0.0,Ilyushin,1961,1
+Taiwan,China Airlines (Taiwan),Boeing B-747-209B,225,225,0,0,0.0,Boeing,2002,1
+United States Of America,China Airlines (Taiwan),Boeing B-747-SP-09,274,0,0,274,1.0,Boeing,1985,0
+Philippines,China Airlines (Taiwan),Boeing B-707-309C,135,2,0,133,0.985185185,Boeing,1980,0
+Taiwan,China Airlines (Taiwan),Airbus A300-622R,196,196,7,0,0.0,Airbus,1998,1
+Japan,China Airlines (Taiwan),Airbus A300B4-622R,271,264,0,7,0.025830258,Airbus,1994,1
+United States Of America,China Eastern Airlines,McDonnell Douglas MD-11,264,2,0,262,0.992424242,McDonnell,1993,0
+China,China General Aviation Corporation,Yakovlev YAK-42D,126,108,0,18,0.142857143,Yakovlev,1992,1
+China,China Northern Airlines,McDonnell Douglas MD-82,112,112,0,0,0.0,McDonnell,2002,1
+China,China Northern Airlines,McDonnell Douglas MD-82,102,12,0,90,0.882352941,McDonnell,1993,0
+China,China Northwest Airlines,Tupolev TU-154M,160,160,0,0,0.0,Tupolev,1994,1
+China,China Northwest Airlines,British Aerospace 146-300,113,55,0,58,0.513274336,British,1993,1
+China,China Southern Airlines,Boeing B-737-3Y0,141,141,0,0,0.0,Boeing,1992,1
+China,China Southwest Airlines,Ilyushin IL-18D,108,108,0,0,0.0,Ilyushin,1988,1
+China,China Southwest Airlines / Xiamen Airlines,Boeing B-737-247 / Boeing B-757-21B,226,128,0,98,0.433628319,Boeing,1990,1
+Dominican Republic,Compania Dominicana de Aviacion,McDonnell Douglas DC-9-32,102,102,0,0,0.0,McDonnell,1970,1
+Mexico,Compania Mexicana de Aviacion,Boeing B-727-64,79,79,0,0,0.0,Boeing,1969,1
+Peru,Compania de Aviacion Faucett SA (Peru),Boeing B-737-222,123,123,0,0,0.0,Boeing,1996,1
+United States Of America,Continental Airlines,Boeing B-727-224,131,0,0,131,1.0,Boeing,1975,0
+United States Of America,Continental Airlines,McDonnell Douglas MD-82,116,0,0,116,1.0,McDonnell,1994,0
+United States Of America,Continental Airlines,McDonnell Douglas DC-10-10,200,2,0,198,0.99,McDonnell,1978,0
+Barbados,Cubana de Aviacion,McDonnell Douglas DC-8-43,73,73,0,0,0.0,McDonnell,1976,1
+Ecuador,Cubana de Aviacion,Tupolev TU-154M,91,70,10,21,0.230769231,Tupolev,1998,1
+Cuba,Cubana de Aviacion,Ilyushin IL-62M,126,126,45,0,0.0,Ilyushin,1989,1
+Guatemala,Cubana de Aviacon,McDonnell Douglas DC-10-30,314,16,2,298,0.949044586,McDonnell,1999,0
+Canary Islands,Dan Air Services,Boeing B-727-64,146,146,0,0,0.0,Boeing,1980,1
+Spain,Dan Air Services,de Havilland Comet 4,112,112,0,0,0.0,de,1970,1
+United States Of America,Delta Air Lines,Boeing B-727-232 Adv,108,14,0,94,0.87037037,Boeing,1988,0
+United States Of America,Delta Air Lines,McDonnell Douglas DC-9-31,89,89,0,0,0.0,McDonnell,1973,1
+United States Of America,Delta Air Lines,McDonnell Douglas MD-88,142,2,0,140,0.985915493,McDonnell,1996,0
+United States Of America,Delta Air Lines,Lockheed L-1011-1 TriStar,163,134,1,29,0.17791411,Lockheed,1985,1
+United States Of America,Delta Air Lines/ North Central Airlines,Convair CV-880 / McDonnell DC-9-31,133,10,0,123,0.92481203,Convair,1972,0
+Nigeria,EAS Airlines (Executive Airline Services),BAC One-Eleven 525FT,77,74,75,3,0.038961039,BAC,2002,1
+Ethiopia,East African Airways,BAC Super VC-10 1154,107,43,0,64,0.598130841,BAC,1972,1
+United States Of America,Eastern Air Lines,McDonnell Douglas DC-9-31,97,1,0,96,0.989690722,McDonnell,1990,0
+United States Of America,Eastern Air Lines,Douglas DC-7B,84,84,0,0,0.0,Douglas,1965,1
+Bahamas,Eastern Air Lines,Lockheed L-1011,172,0,0,172,1.0,Lockheed,1983,0
+United States Of America,Eastern Air Lines,Boeing B-727-225,124,113,0,11,0.088709677,Boeing,1975,1
+United States Of America,Eastern Air Lines,McDonnell Douglas DC-9-31,82,70,0,12,0.146341463,McDonnell,1974,1
+United States Of America,Eastern Air Lines,Lockheed L-1011 TriStar1,176,103,0,73,0.414772727,Lockheed,1972,1
+Malta,EgyptAir,Boeing B-737-266,103,60,0,43,0.417475728,Boeing,1985,1
+United States Of America,EgyptAir,Boeing B-767-366ER,217,217,0,0,0.0,Boeing,1999,1
+Comoros,Ethiopian Airlines,Boeing B-767-200ER,175,127,0,48,0.274285714,Boeing,1996,1
+Ethiopia,Ethiopian Airlines,Boeing B-737-230,104,35,0,69,0.663461538,Boeing,1988,1
+Wales,Fairflight Ltd.,Avro 689 Tudor 5,83,80,0,3,0.036144578,Avro,1950,1
+Russia,Far East Aviation,Tupolev TU-154B,98,98,0,0,0.0,Tupolev,1995,1
+Taiwan,Far Eastern Air Transport,Boeing B-737-222,110,110,0,0,0.0,Boeing,1981,1
+Peru,Faucett,Douglas DC-C-54A,72,72,0,0,0.0,Douglas,1967,1
+Egypt,Flash Air,Boeing B-737-3Q8,148,148,0,0,0.0,Boeing,2004,1
+Philippine Sea,Flying Tiger Line,Lockheed 1049H Super Constellation,107,107,0,0,0.0,Lockheed,1962,1
+Colombia,Fuerza Aérea Colombiana,Douglas DC-6B,80,80,0,0,0.0,Douglas,1985,1
+Peru,Fuerza Aérea del Peru,Boeing B-737-282,88,75,0,13,0.147727273,Boeing,1998,1
+United States Of America,Galaxy Airlines,Lockheed L-188A Electra,71,70,0,1,0.014084507,Lockheed,1985,1
+Japan,Garuda Indonesia Airlines,McDonnell Douglas DC-10-30,275,3,0,272,0.989090909,McDonnell,1996,0
+Indonesia,Garuda Indonesia Airlines,Boeing B-737-497,140,22,0,118,0.842857143,Boeing,2007,0
+Indonesia,Garuda Indonesia Airlines,Airbus A300-B4-200,234,234,0,0,0.0,Airbus,1997,1
+Cyprus,Globe Air,Bristol Britannia 175,130,126,0,4,0.030769231,Bristol,1967,1
+Brazil,Gol Airlines / Private,Boeing B-737-8EH /EMB-135JB,161,154,0,7,0.043478261,Boeing,2006,1
+United Arab Emirates,Gulf Air,Boeing B-737-2P6,112,112,0,0,0.0,Boeing,1983,1
+Bahrain,Gulf Air,Airbus A320-212,143,143,0,0,0.0,Airbus,2000,1
+Thailand,Hang Khong (Vietnam),Tupolev TU-134A,90,76,0,14,0.155555556,Tupolev,1988,1
+Greece,Helios Airways,Boeing 737-31S,121,121,0,0,0.0,Boeing,2005,1
+Spain,Iberia Airlines,Sud-Aviation Caravelle VI-R,104,104,0,0,0.0,Sud,1972,1
+Spain,Iberia Airlines,Boeing B-727-256,148,148,0,0,0.0,Boeing,1985,1
+Spain,Iberia Airlines / Aviaco,Boeing B-727-200 / DC9-32,135,93,0,42,0.311111111,Boeing,1983,1
+United States Of America,Imperial Airways,Lockheed C-69 Constellation,79,77,0,2,0.025316456,Lockheed,1961,1
+Portugal,Independent Air Inc.,Boeing B-707-331B,144,144,0,0,0.0,Boeing,1989,1
+Afghanistan,Indian Airlines,Airbus A300B2-101,189,1,0,188,0.994708995,Airbus,1999,0
+India,Indian Airlines,Sud-Aviation Caravelle VI-N,95,95,0,0,0.0,Sud,1976,1
+India,Indian Airlines,Boeing B-737-2A8,118,56,0,62,0.525423729,Boeing,1993,1
+India,Indian Airlines,Boeing B-737-2A8,129,124,0,5,0.03875969,Boeing,1988,1
+India,Indian Airlines,Airbus A320-231,146,92,0,54,0.369863014,Airbus,1990,1
+India,Indian Airlines,Boeing B-737-2A8,132,1,3,131,0.992424242,Boeing,1978,0
+India,Indian Airlines,Boeing B-737-2A8,69,69,0,0,0.0,Boeing,1991,1
+Czechoslovakia,Inex Adria Aviopromet,McDonnell Douglas DC-9-32,120,75,0,45,0.375,McDonnell,1975,1
+France,Inex Adria Aviopromet (Yugoslavia),McDonnell Douglas MD-81,180,180,0,0,0.0,McDonnell,1981,1
+Yugoslavia,Inex Adria Aviopromet / British Airways,McDonnell Douglas DC-9-31 / Trident 3B,176,176,0,0,0.0,McDonnell,1976,1
+Germany,Interflug,Ilyushin IL-62MK,113,20,1,93,0.82300885,Ilyushin,1989,0
+Germany,Interflug,Ilyushin IL-62,156,156,0,0,0.0,Ilyushin,1972,1
+Switzerland,Invicta International Airlines (UK),Vickers Vanguard 952,145,108,0,37,0.255172414,Vickers,1973,1
+Iran,Iran Air,Airbus A300B2-203,290,290,0,0,0.0,Airbus,1988,1
+Iran,Iran Air Tours,Tupolev TU-154,117,117,0,0,0.0,Tupolev,2002,1
+Iran,Iran Air Tours,Tupolev Tu-154M,148,29,0,119,0.804054054,Tupolev,2006,0
+Iran,Iran Air Tours  /  Military - Iranian Air Force,Tupolev TU-154M / Sukhoi Su-24,133,133,0,0,0.0,Tupolev,1993,1
+Iran,Iran National Airlines,Boeing B-727-86,128,128,0,0,0.0,Boeing,1980,1
+Saudi Arabia,Iraqi Airways,Boeing B-737-270C,106,63,0,43,0.405660377,Boeing,1986,1
+Kuwait,Iraqi Airways,Ilyushin IL-76,130,130,0,0,0.0,Ilyushin,1990,1
+Italy,Itavia,McDonnell Douglas DC-9-15,81,81,0,0,0.0,McDonnell,1980,1
+Kyrgyzstan,Itek Air,Boeing B-737-219,90,68,0,22,0.244444444,Boeing,2008,1
+United States Of America,Japan Air Lines,McDonnell Douglas DC-8-62,107,0,0,107,1.0,McDonnell,1968,0
+Japan,Japan Air Lines,McDonnell Douglas DC-8-61,174,24,0,150,0.862068966,McDonnell,1982,0
+Japan,Japan Air Lines,Boeing B-747-SR46,524,520,0,4,0.007633588,Boeing,1985,1
+India,Japan Air Lines,McDonnell Douglas DC-8-53,87,82,4,5,0.057471264,McDonnell,1972,1
+Russia,Japan Air Lines,McDonnell Douglas DC-8-62,76,62,0,14,0.184210526,McDonnell,1972,1
+Ireland,KLM Royal Dutch Airlines,Lockheed 1049H Super Constellation,99,99,0,0,0.0,Lockheed,1958,1
+Pakistan,Kam Air,Boeing B-737-200,104,104,0,0,0.0,Boeing,2005,1
+Cameroon,Kenya Airways,Boeing B-737-8AL,114,114,0,0,0.0,Boeing,2007,1
+Ivory Coast,Kenya Airways,AirbusA310-304,179,169,0,10,0.055865922,AirbusA,2000,1
+Russia,Korean Airlines,Boeing B-747-230B,269,269,0,0,0.0,Boeing,1983,1
+South Korea,Korean Airlines,Boeing B-747-2B5B,226,15,0,211,0.933628319,Boeing,1980,0
+Guam,Korean Airlines,Boeing B-747-300,254,229,0,25,0.098425197,Boeing,1997,1
+Libya,Korean Airlines,McDonnell Douglas DC-10-30,199,75,4,124,0.623115578,McDonnell,1989,0
+Thailand,Korean Airlines,Boeing B-707-3B5C,115,115,0,0,0.0,Boeing,1987,1
+South Korea,Korean Airlines,Airbus A300B4-622R,160,0,0,160,1.0,Airbus,1994,0
+Russia,Korean Airlines,Boeing B-707-321B,109,2,0,107,0.981651376,Boeing,1978,0
+Cyprus,Kuwait Airways,Boeing B-747-200,112,2,0,110,0.982142857,Boeing,1988,0
+Chile,LAN,Douglas DC-6B,87,87,0,0,0.0,Douglas,1965,1
+Argentina,"LAPA, Lineas Aereas Privadas Argentinas",Boeing B-737-204C,103,64,10,39,0.378640777,Boeing,1999,1
+Poland,LOT Polish Airlines,Ilyushin IL-62,87,87,0,0,0.0,Ilyushin,1980,1
+Poland,LOT Polish Airlines,Ilyushin IL-62M,183,183,0,0,0.0,Ilyushin,1987,1
+Thailand,Lauda Air,Boeing B-767-3Z9ER,223,223,0,0,0.0,Boeing,1991,1
+Egypt,Libya Arab Airlines,Boeing B-727-224,113,110,0,3,0.026548673,Boeing,1973,1
+Libya,Libya Arab Airlines / Military -  Libya Air Force,Boeing B-727-2L5 / MiG23UB,157,157,0,0,0.0,Boeing,1992,1
+United States Of America,Linea Aeropostal Venezolana,Lockheed 1049E-55 Super Constellation,74,74,0,0,0.0,Lockheed,1956,1
+Peru,Lineas Aereas Nacionales SA (Peru),Lockheed 188A Electra,92,91,0,1,0.010869565,Lockheed,1971,1
+Peru,Lineas Aereas Nacionales SA (Peru),Lockheed 188A Electra,100,99,2,1,0.01,Lockheed,1970,1
+France,Lineas Aereas de Espana/Spantax SA Transportes,MD Douglas DC-9-32/Convair CV-990A,182,68,0,114,0.626373626,MD,1973,0
+Indonesia,Lion Air,McDonnell-Douglas MD-82,154,26,0,128,0.831168831,McDonnell,2004,0
+Bolivia,Lloyd Aereo Boliviano,Douglas DC-6B,74,74,0,0,0.0,Douglas,1969,1
+Sri Lanka,Loftleidir IcelandiAirlines,McDonnell Douglas DC-8-Super 63CF,262,183,0,79,0.301526718,McDonnell,1978,1
+Kenya,Lufthansa,Boeing B-747-130,157,59,0,98,0.624203822,Boeing,1974,0
+Malaysia,Malaysia Airlines,Boeing B-737-2H6,100,100,0,0,0.0,Boeing,1977,1
+Indonesia,Mandala Airlines,Boeing 737-230,117,99,44,18,0.153846154,Boeing,2005,1
+Indonesia,Mandala Airlines,Vickers Viscount 816,70,70,0,0,0.0,Vickers,1992,1
+Canada,Maritime Central Airways,Douglas DC-4,79,79,0,0,0.0,Douglas,1957,1
+Portugal,Martinair Holland NV,McDonnell Douglas DC-10-30CF,340,56,0,284,0.835294118,McDonnell,1992,0
+Sri Lanka,Martinair Holland NV,McDonnell Douglas DC-8-55F,191,191,0,0,0.0,McDonnell,1974,1
+Philippines,Merpati Nusantara Airlines,Vickers Viscount 828,69,69,0,0,0.0,Vickers,1971,1
+Mexico,Mexicana,Boeing B-727-64,118,27,0,91,0.771186441,Boeing,1969,0
+Mexico,Mexicana,Boeing B-727-264,167,167,0,0,0.0,Boeing,1986,1
+Saudi Arabia,Middle East Airlines,Boeing B-720B-023B,82,82,0,0,0.0,Boeing,1976,1
+Afghanistan,Military - Afghan Republican Air Force,Antonov AN-12,83,83,0,0,0.0,Antonov,1990,1
+Afghanistan,Military - Afghan Republican Air Force,Antonov AN-32,76,76,0,0,0.0,Antonov,1993,1
+Ethiopia,Military - Ethiopian Air Force,Antonov AN-26,73,73,0,0,0.0,Antonov,1982,1
+Nigeria,Military - Federal Nigerian Air Force,Lockheed C-130H,158,158,0,0,0.0,Lockheed,1992,1
+India,Military - Indian Air Force,Antonov An-12,77,77,1,0,0.0,Antonov,1978,1
+India,Military - Indian Air Force,Antonov AN-12BP,98,98,0,0,0.0,Antonov,1968,1
+Indonesia,Military - Indonesian Air Force,Lockheed C-130 Hercules,112,98,2,14,0.125,Lockheed,2009,1
+Indonesia,Military - Indonesian Air Force,Lockheed C-130H-30,135,134,1,1,0.007407407,Lockheed,1991,1
+Iran,Military - Iranian Air Force,Lockheed C-130HF,88,88,0,0,0.0,Lockheed,1997,1
+Iran,Military - Iranian Air Force,Lockheed C-130,103,103,0,0,0.0,Lockheed,1986,1
+Iran,Military - IslamiRepubliof Iran Air Force,Lockheed C-130B Hercules,94,94,14,0,0.0,Lockheed,2005,1
+Iran,Military - IslamiRevolution's Guards Corps,Ilyushin Il-76MD,275,275,0,0,0.0,Ilyushin,2003,1
+Isreal,Military - Israel Air Force /Military -  Israel Air Force,Sikorsky CH53D / Sikorsky CH53D,73,73,0,0,0.0,Sikorsky,1997,1
+Nicaragua,Military - Nicaraguan Air Force,Mil Mi-8 (helicopter),88,84,0,4,0.045454545,Mil,1982,1
+Saudi Arabia,Military - Royal Saudi Air Force,Lockheed C-130H,98,98,0,0,0.0,Lockheed,1991,1
+Saudi Arabia,Military - Royal Saudi Air Force,Lockheed C-130E,89,89,0,0,0.0,Lockheed,1980,1
+Chechnya,Military - Russian Air Force,Mil Mi-26,147,121,0,26,0.176870748,Mil,2002,1
+Georgia,Military - Russian Air Force,Ilyushin IL-18D,86,86,0,0,0.0,Ilyushin,2000,1
+Afghanistan,Military - Russian Air Force,Antonov AN-22,240,240,0,0,0.0,Antonov,1984,1
+Russia,Military - Russian Air Force / Military - Russian Air Force,Ilyushin IL-76 / Mi-8 (helicopter),83,77,0,6,0.072289157,Ilyushin,1988,1
+Sri Lanka,Military - Sri Lanka Air Force,Antonov AN-32,81,81,0,0,0.0,Antonov,1995,1
+Sudan,Military - Sudanese Air Force,Lockheed C-130H,91,91,0,0,0.0,Lockheed,1996,1
+South Korea,Military - U.S. Air Force,Douglas C-124C,159,22,0,137,0.86163522,Douglas,1957,0
+Republic of Vietnam,Military - U.S. Air Force,Fairchild C-123K,79,79,0,0,0.0,Fairchild,1970,1
+Japan,Military - U.S. Air Force,Douglas C-124A Globemaster II,129,129,0,0,0.0,Douglas,1953,1
+Vietnam,Military - U.S. Air Force,Lockheed C-130B Hercules,155,155,0,0,0.0,Lockheed,1968,1
+Kuwait,Military - U.S. Air Force,Lockheed C-130H,94,3,0,91,0.968085106,Lockheed,1999,0
+Republic of Vietnam,Military - U.S. Air Force,Fairchild C-123C,85,85,0,0,0.0,Fairchild,1965,1
+United States Of America,Military - U.S. Air Force,Boeing C-135A,85,85,0,0,0.0,Boeing,1965,1
+Philippines,Military - U.S. Air Force,Boeing C-135B,84,79,0,5,0.05952381,Boeing,1964,1
+United States Of America,Military - U.S. Air Force,Douglas C-124A Globemaster,115,87,0,28,0.243478261,Douglas,1952,1
+Vietnam,Military - U.S. Air Force,Lockheed C-5A Galaxy,330,155,0,175,0.53030303,Lockheed,1975,0
+United States Of America,Military - U.S. Navy,Goodyear-Zeppelin U.S.S. Akron (airship),76,73,0,3,0.039473684,Goodyear,1933,1
+Russia,Military Soviet  Air Force - Aeroflot,Antonov An-12 - Ilyshin IL-14,120,120,0,0,0.0,Antonov,1968,1
+Saudi Arabia,Nationair (chartered by Nigeria Airways),McDonnell Douglas DC-8 Super 61,261,261,0,0,0.0,McDonnell,1991,1
+Mexico,National Airlines,McDonnell Douglas DC-10-10,128,1,0,127,0.9921875,McDonnell,1973,0
+Nigeria,Nigeria Airways,Boeing B-737-2F9,137,9,0,128,0.934306569,Boeing,1995,0
+Nigeria,Nigeria Airways,BAC VC-10-1101,87,87,0,0,0.0,BAC,1969,1
+United States Of America,Northwest Airlines,McDonnell Douglas MD-82,155,154,2,1,0.006451613,McDonnell,1987,1
+United States Of America,Northwest Airlines/ Northwest Airlines,Boeing B-727-251 / MD Douglas DC-9-14,198,8,0,190,0.95959596,Boeing,1990,0
+United States Of America,Northwest Orient Airlines,Douglas DC-7CF,101,101,0,0,0.0,Douglas,1963,1
+Greece,OlympiAirways,Douglas DC-6B,90,90,0,0,0.0,Douglas,1969,1
+Thailand,One-Two-Go Airlines,McDonnell Douglas MD-82,130,90,0,40,0.307692308,McDonnell,2007,1
+United States Of America,PacifiSouthwest Airlines / Private,Boeing B-727-214 / Cessna 172,137,137,7,0,0.0,Boeing,1978,1
+Saudi Arabia,Pakistan International Airlines,Boeing B-707-340C,156,156,0,0,0.0,Boeing,1979,1
+Nepal,Pakistan International Airlines,Airbus A300B4-203,167,167,0,0,0.0,Airbus,1992,1
+Egypt,Pakistan International Airlines,Boeing B-720-040B,125,119,0,6,0.048,Boeing,1965,1
+Macedonia,Palair Macedonian,Fokker 100,97,83,0,14,0.144329897,Fokker,1993,1
+Indonesia,Pan American World Airways,Boeing B-707-321C,107,107,0,0,0.0,Boeing,1974,1
+United States Of America,Pan American World Airways,Boeing B-727-235,145,145,8,0,0.0,Boeing,1982,1
+Tahiti,Pan American World Airways,Boeing B-707-321B,79,78,0,1,0.012658228,Boeing,1973,1
+United States Of America,Pan American World Airways,Boeing B-707-321B,153,0,0,153,1.0,Boeing,1965,0
+Pakistan,Pan American World Airways,Boeing B-747-121,384,16,1,368,0.958333333,Boeing,1986,0
+United States Of America,Pan American World Airways,Boeing B-707-121,81,81,0,0,0.0,Boeing,1963,1
+Scotland,Pan American World Airways,Boeing B-747-121A,259,259,11,0,0.0,Boeing,1988,1
+United States Of America,Pan American World Airways,Boeing B-747,298,1,0,297,0.996644295,Boeing,1974,0
+Italy,Pan American World Airways,Boeing B-707-321B,177,30,0,147,0.830508475,Boeing,1973,0
+Samoa,Pan American World Airways,Boeing B-707-321B,101,96,0,5,0.04950495,Boeing,1974,1
+United States Of America,Pan American World Airways,Boeing B-747-121,218,0,0,218,1.0,Boeing,1971,0
+Canary Islands,Pan American World Airways / KLM,Boeing B-747-121 / Boeing B-747-206B,644,583,0,61,0.094720497,Boeing,1977,1
+Germany,Pan International,BAC One-Eleven 515FB,121,22,0,99,0.818181818,BAC,1971,0
+Brazil,Panair do Brazil,McDonnell Douglas DC-8-33,105,15,0,90,0.857142857,McDonnell,1962,0
+United States Of America,Paradise Airlines,Lockheed 049 Constellation,85,85,0,0,0.0,Lockheed,1964,1
+Philippines,Philippine Air Lines,Airbus A.320-214,127,0,3,127,1.0,Airbus,1998,0
+Pacific Ocean,Philippine Air Lines,Boeing B-747-200,293,1,0,292,0.996587031,Boeing,1994,0
+Philippines,Philippine Air Lines,BAC One-Eleven 516FP,98,1,8,97,0.989795918,BAC,1989,0
+Philippines,Philippine Air Lines,Boeing B-737-3Y0,119,8,0,111,0.932773109,Boeing,1990,0
+Philippines,Philippine Air Lines,Airbus A.330-301,298,1,0,297,0.996644295,Airbus,2000,0
+United States Of America,Piedmont Airlines / Private,Boeing B-727-22 / Cessna 310,82,82,0,0,0.0,Boeing,1967,1
+Ireland,President Airlines,Douglas DC-6B,83,83,0,0,0.0,Douglas,1961,1
+Ukraine,Pulkovo Airlines,Tupolev Tu-154M,170,170,0,0,0.0,Tupolev,2006,1
+Morocco,Royal Air Maroc,Aerospatiale Caravelle 3,82,61,0,21,0.256097561,Aerospatiale,1970,1
+Colombia,SAM Colombia,Boeing B-727-46,132,132,0,0,0.0,Boeing,1993,1
+Ecuador,SAN Ecuador,Sud Aviation SE-210 Caravelle VIR,100,8,0,92,0.92,Sud,1983,0
+Belgium,Sabena,Boeing B-707-320,72,72,1,0,0.0,Boeing,1961,1
+Iran,Saha Airline Services,Boeing B-707-3J9C,169,3,0,166,0.982248521,Boeing,2005,0
+Qatar,Saudi Arabian Airlines,Lockheed L-1011-200,291,2,0,289,0.993127148,Lockheed,1980,0
+Saudi Arabia,Saudi Arabian Airlines,Lockheed 1011-200 TriStar,301,301,0,0,0.0,Lockheed,1980,1
+India,Saudi Arabian Airlines / Kazastan Airlines,Boeing B-747-168B / Ilyushin IL-76TD,349,349,0,0,0.0,Boeing,1996,1
+United States Of America,Scandinavian Airlines (SAS),McDonnell Douglas DC-10-30,177,0,0,177,1.0,McDonnell,1984,0
+Sweden,Scandinavian Airlines (SAS),MDonnell Douglas MD-81,129,0,0,129,1.0,MDonnell,1991,0
+Italy,Scandinavian Airlines (SAS) / Private,MD-87 / Cessna 525A Citation II,114,114,4,0,0.0,MD,2001,1
+Russia,Sibir (S7),Airbus A-310-324ET,203,128,0,75,0.369458128,Airbus,2006,1
+Russia,Sibir Airlines,Tupolev Tu-154M,78,78,0,0,0.0,Tupolev,2001,1
+Indonesia,SilkAir,Boeing B-737-300,104,104,0,0,0.0,Boeing,1997,1
+Taiwan,Singapore Airlines,Boeing B-747-412,179,83,0,96,0.536312849,Boeing,2000,0
+Morocco,Sobelair SA (Belgium),Sud-Aviation Caravelle VI-N,106,106,0,0,0.0,Sud,1973,1
+Nigeria,Sosoliso Airlines,McDonnell DC-9-32,109,108,0,1,0.009174312,McDonnell,2005,1
+Namibia,South African Airways,Boeing B-707-344C,128,123,0,5,0.0390625,Boeing,1968,1
+Indian Ocean,South African Airways,Boeing B-747-244B,159,159,0,0,0.0,Boeing,1987,1
+United States Of America,Southern Airways,McDonnell Douglas DC-9-31,85,62,8,23,0.270588235,McDonnell,1977,1
+United States Of America,Southern Airways,McDonnell Douglas DC-9-31,75,75,0,0,0.0,McDonnell,1970,1
+United States Of America,Southwest Airlines,Boeing B-737-7H4,103,0,1,103,1.0,Boeing,2005,0
+United States Of America,Southwest Airlines,Boeing B-737-3T5,142,0,0,142,1.0,Boeing,2000,0
+Spain,Spanair,McDonnell Douglas MD-82,172,154,0,18,0.104651163,McDonnell,2008,1
+Spain,Spantax,McDonnell Douglas DC-10-30CF,394,50,0,344,0.873096447,McDonnell,1982,0
+Canary Islands,Spantax,Convair CV-990-30A-5 Coronado,155,155,0,0,0.0,Convair,1972,1
+United Arab Emirates,Sterling Airways,Aerospatiale Caravelle Super 10B,112,112,0,0,0.0,Aerospatiale,1972,1
+Sudan,Sudan Airways,Airbus A-310-324,214,32,0,182,0.85046729,Airbus,2008,0
+Sudan,Sudan Airways,Boeing 737-2J8C,117,116,0,1,0.008547009,Boeing,2003,1
+Surinam,Surinam Airways,McDonnell Douglas DC-8 Super 62,187,176,0,11,0.058823529,McDonnell,1989,1
+Switzerland,Swissair,Sud-Aviation Caravelle III,80,80,0,0,0.0,Sud,1963,1
+Greece,Swissair,McDonnell Douglas DC-8-62,156,14,0,142,0.91025641,McDonnell,1979,0
+Canada,Swissair,McDonnell Douglas MD-11,229,229,0,0,0.0,McDonnell,1998,1
+Angola,TAAG Angola Airlines,Boeing B-737-200,130,130,0,0,0.0,Boeing,1983,1
+Honduras,TACA International Airlines,Airbus A-320-233,136,3,2,133,0.977941176,Airbus,2008,0
+Brazil,TAM (Brazil),Airbus A-320-233,187,187,12,0,0.0,Airbus,2007,1
+Brazil,TAM (Brazil),Fokker 100,95,95,3,0,0.0,Fokker,1996,1
+Colombia,TAME,Boeing B-727-134,92,92,0,0,0.0,Boeing,2002,1
+Ecuador,TAME,Boeing B-737-2V2,119,119,0,0,0.0,Boeing,1983,1
+Honduras,TAN,Boeing B-727-224,146,127,0,19,0.130136986,Boeing,1989,1
+Peru,TANS Peru,Boeing B-737-244,98,40,0,58,0.591836735,Boeing,2005,1
+Portugal,TAP (Air Portugal),Boeing B-727-282,164,131,0,33,0.201219512,Boeing,1977,1
+Tajikistan,Tajikistan Airlines,Yakovlev YAK-40,86,82,0,4,0.046511628,Yakovlev,1993,1
+United Arab Emirates,Tajikistan Airlines,Tupolev TU-154,86,85,0,1,0.011627907,Tupolev,1997,1
+Mauretania,Tarom,Tupolev TU-154B-1,168,1,0,167,0.994047619,Tupolev,1980,0
+Nepal,Thai Airways,Airbus A310-304,113,113,0,0,0.0,Airbus,1992,1
+Thiland,Thai Airways,Boeing B-737-2P5,83,83,0,0,0.0,Boeing,1987,1
+Thailand,Thai Airways,Airbus A-310-204,146,102,0,44,0.301369863,Airbus,1998,1
+Canada,Trans Canada Air Lines,McDonnell Douglas DC-8F-54F,118,118,0,0,0.0,McDonnell,1963,1
+Angola,Trans Service Airlift,Lockheed L-188C Electra,144,141,0,3,0.020833333,Lockheed,1995,1
+United States Of America,Trans World Airlines,Lockheed 049 Constellation,78,78,0,0,0.0,Lockheed,1961,1
+Greece,Trans World Airlines,Boeing B-727,121,4,0,117,0.966942149,Boeing,1986,0
+Greece,Trans World Airlines,Boeing B-727-231,153,1,0,152,0.993464052,Boeing,1985,0
+United States Of America,Trans World Airlines,Boeing B-747-131,230,230,0,0,0.0,Boeing,1996,1
+United States Of America,Trans World Airlines,Convair CV-880-22-1,82,70,0,12,0.146341463,Convair,1967,1
+United States Of America,Trans World Airlines,Boeing B-707-331B,149,1,0,148,0.993288591,Boeing,1973,0
+Greece,Trans World Airlines,Boeing B-707-331B,88,88,0,0,0.0,Boeing,1974,1
+United States Of America,Trans World Airlines,Boeing B-727-231,92,92,0,0,0.0,Boeing,1974,1
+United States Of America,Trans World Airlines,Lockheed L-1011,292,0,0,292,1.0,Lockheed,1992,0
+United States Of America,Trans World Airlines / Eastern Air Lines,Boeing B-707-131B / L1049C Constellation,112,4,0,108,0.964285714,Boeing,1965,0
+United States Of America,Trans World Airlines / Private,McDonnell Douglas DC-9-82 / Cessna 441,142,2,0,140,0.985915493,McDonnell,1994,0
+United States Of America,Transair Georgia Airlines,Tupolev TU-154B,132,106,0,26,0.196969697,Tupolev,1993,1
+Colombia,Transportes Aereos del Caribe,Aerospatiale Caravelle 6R,70,70,0,0,0.0,Aerospatiale,1980,1
+Czechoslovakia,Transportno Aviatsionno Bulgaro-Soviet Obshchestvo,Ilyushin IL-18B,82,82,0,0,0.0,Ilyushin,1966,1
+Netherland,Turkish Airlines,Boeing 737-8F2,134,9,0,125,0.932835821,Boeing,2009,0
+France,Turkish Airlines (THY),McDonnell Douglas DC-10-10,346,346,0,0,0.0,McDonnell,1974,1
+Turkey,Turkish Airlines (THY),Boeing B-727-2F2,154,154,0,0,0.0,Boeing,1976,1
+Turkey,Turkish Airlines (THY),BAe Avro RJ-100,80,75,0,5,0.0625,BAe,2003,1
+Turkey,Turkish Airlines (THY),Fokker F-28 Fellowship 1000,73,66,0,7,0.095890411,Fokker,1974,1
+United States Of America,US Airways,Airbus A320-214,155,0,0,155,1.0,Airbus,2009,0
+United States Of America,USAir,Boeing B-737-3B7,132,132,0,0,0.0,Boeing,1994,1
+Congo,Ukrainian Cargo Airlines -  Congolese Army Charter,Illyushin 76,200,129,0,71,0.355,Illyushin,2003,1
+Turkey,Ukranian-Mediterranean Airlines,Yakovlev 42D,75,75,0,0,0.0,Yakovlev,2003,1
+Taiwan,Uni Air,McDonnell Douglas MD-90-30,96,1,0,95,0.989583333,McDonnell,1999,0
+Spain,Union des Transportes Aeriens,Douglas DC-6B,80,80,0,0,0.0,Douglas,1964,1
+Niger,Union des Transportes Aeriens,McDonnell Douglas DC-10-30,171,171,0,0,0.0,McDonnell,1989,1
+Benin,Union des Transports Aeriens de Guinee,Boeing B-727-223,161,140,0,21,0.130434783,Boeing,2003,1
+Iowa,United Air Lines,McDonnell Douglas DC-10-10,298,112,0,186,0.624161074,McDonnell,1989,0
+United States Of America,United Air Lines,Boeing B-747-122,356,9,0,347,0.974719101,Boeing,1989,0
+United States Of America,United Air Lines,McDonnell Douglas DC-8-12,122,17,1,105,0.860655738,McDonnell,1961,0
+Oregon,United Air Lines,McDonnell Douglas DC-8-61,189,10,0,179,0.947089947,McDonnell,1978,0
+Pacific Ocean,United Air Lines,Boeing B-747-122,393,1,0,392,0.997455471,Boeing,1997,0
+United States Of America,United Air Lines / Trans World Airlines,Douglas DC-7 / Lockheed S Constellation,128,128,0,0,0.0,Douglas,1956,1
+United States Of America,United Air Lines / Trans World Airlines,MD DC-8-11 / Lockheed  1049 S Const,128,128,6,0,0.0,MD,1960,1
+Egypt,United Arab Airlines,Ilyushin IL-18D,105,100,0,5,0.047619048,Ilyushin,1969,1
+Brazil,VASP,Boeing B-737-200,118,2,0,116,0.983050847,Boeing,1982,0
+Brazil,VASP,Boeing B-727-212A,137,137,0,0,0.0,Boeing,1982,1
+United States Of America,ValuJet,McDonnell Douglas DC-9-32,110,110,0,0,0.0,McDonnell,1996,1
+Peru,Varig,Boeing B-707-441,97,97,0,0,0.0,Boeing,1962,1
+France,Varig,Boeing B-707-345C,134,123,0,11,0.082089552,Boeing,1973,1
+Liberia,Varig,McDonnell Douglas DC-8-33,90,51,5,39,0.433333333,McDonnell,1967,1
+Venezuela,Venezolana Internacional de Aviacion,McDonnell Douglas DC-9-32,84,84,70,0,0.0,McDonnell,1969,1
+Russia,Vladivostokavia,Tupolev TU-154M,145,145,0,0,0.0,Tupolev,2001,1
+Norway,Vnokovo Airlines,Tupolev TU-154M,141,141,0,0,0.0,Tupolev,1996,1
+Saudi Arabia,Vnukovo Airlines,Tupolev 154M,174,3,0,171,0.982758621,Tupolev,2001,0
+Botswana,Wenela Air Services,Douglas DC-4,84,78,0,6,0.071428571,Douglas,1974,1
+Venezuela,West Caribbean Airways,McDonnell Douglas MD-82,160,160,0,0,0.0,McDonnell,2005,1
+Mexico,Western Airlines,McDonnell Douglas DC-10-10,88,72,1,16,0.181818182,McDonnell,1979,1
+democratic republic Of Congo,Wimbi Dira Airways,Antonov 12V,100,2,0,98,0.98,Antonov,2005,0
+United States Of America,World Airways,McDonnell Douglas DC-10-30CF,212,2,0,210,0.990566038,McDonnell,1982,0
+Mariana Islands,World Airways,Douglas DC-6AB,94,80,0,14,0.14893617,Douglas,1960,1
