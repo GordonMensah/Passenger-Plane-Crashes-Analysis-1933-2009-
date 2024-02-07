@@ -13,8 +13,12 @@
 
 ## How to Explore
 
-1. **Interactive Dashboard:** Access the interactive dashboard [here](https://public.tableau.com/app/profile/joseph.gordon.mensah/viz/LargePassengerPlaneCrashesAnalysis/Dashboard1?publish=yes).
-2. **Data Insights:** Check out the key findings and insights derived from the analysis.
+1. **Interactive Dashboard:** Access the interactive dashboard ➡️➡️ [here](https://public.tableau.com/app/profile/joseph.gordon.mensah/viz/LargePassengerPlaneCrashesAnalysis/Dashboard1?publish=yes).
+
+<img width="1910" alt="Screenshot 2024-02-07 at 5 16 07 AM" src="https://github.com/GordonMensah/Passenger-Plane-Crashes-Analysis-1933-2009-/assets/148505242/33389f58-e00f-42ee-ba53-0c9b4bc9b6f4">
+
+   
+3. **Data Insights:** Check out the key findings and insights derived from the analysis.
 
 ## Technologies Used
 
